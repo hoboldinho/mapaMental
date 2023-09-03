@@ -5,7 +5,7 @@ Olá pessoal
 
 Abri este repositório para compartilhar minha jornada na criação desta aplicação.
 A ideia é aprender na prática.
-Pretendo usar NodeJs e React.
+Pretendo usar Ruby com o framework Rails.
 
 A ideia surgiu com o intuiuto de conseguir rodar localmente no próprio navegador um app para criação de mapas mentais.
 Sem ficar preso a limite de mapas e afins.
