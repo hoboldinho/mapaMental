@@ -1,5 +1,8 @@
 # mapaMental
-aplicação para criação de mapas mentais
+
+OBS: Está bem parada, mas quero voltar com o projeto.
+
+Aplicação para criação de mapas mentais
 
 Olá pessoal
 
